@@ -30,11 +30,8 @@
         margin: 0 0 10px 0;
         font-size: 16px;
     }
-    .head img {
-        width: auto;
-        min-width: 1024px;
-        margin-block: 500px;
-    }
+  
+
 }
 section{
     color: rgb(22, 39,59);
